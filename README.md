@@ -426,13 +426,12 @@ The **US Employee Payroll Analysis** project demonstrates how an interactive Pow
 
 ## Author
 
-Add your preferred display name and professional links here before publishing.
 
-- **Name:** Your Name
-- **LinkedIn:** Add your LinkedIn profile URL
-- **GitHub:** Add your GitHub profile URL
+- **Name:** Nivetha William
+- **LinkedIn:** (https://www.linkedin.com/in/nivetha-william-417729351/)
+- **GitHub:** (https://github.com/NivethaWilliam)
 
 ---
 
-*Note: KPI values and visual descriptions in this README are based on the supplied dashboard screenshots. Confirm all definitions, calculations, units, and source totals in Power BI before presenting them as audited results.*
+
 
