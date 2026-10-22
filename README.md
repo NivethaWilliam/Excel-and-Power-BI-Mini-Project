@@ -23,9 +23,9 @@
 
 ## 📌 1. Executive Summary
 
-**US Employee Payroll Analysis** is a Power BI business intelligence project designed to explore employee salary data, payroll expenditure, department-level costs, job titles, and workforce distribution.
+**US Employee Payroll Analysis** is a Power BI business intelligence project designed to explore employee salary data, payroll expenditure, department-level costs, job titles and workforce distribution.
 
-The dashboard brings payroll indicators together in an interactive report so users can compare departments, review salary appropriations, inspect job-title-level amounts, and filter results by department and department function.
+The dashboard brings payroll indicators together in an interactive report so users can compare departments, review salary appropriations, inspect job-title-level amounts and filter results by department and department function.
 
 The project focuses on five business questions:
 
